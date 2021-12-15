@@ -1,2 +1,6 @@
 # 639-Final-Parking-Lot-Occupancy
-Final Project for CS 639
+
+Project Webpage Link:
+Presentation Video: https://www.youtube.com/watch?v=P_o2PmEps-Y
+
+The main project application is main.py
